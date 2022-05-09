@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/cliche",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/cliche/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/juancarlospaco/cliche/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
