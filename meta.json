@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/cliche",
   "refs": [
-    "refs/heads/nim",
+    "fatal: unable to access 'https://github.com/juancarlospaco/cliche/': SSL connection timeout",
     ""
   ],
   "heads": []
